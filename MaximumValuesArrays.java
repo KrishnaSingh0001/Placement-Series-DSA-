@@ -1,0 +1,18 @@
+// Question : - Find the maximum values out of all the element in the Arrays . 
+
+public class MaximumValuesArrays {
+    public static void main(String[] args) {
+        int[] arr   = {1 , 2 , 100 , 20 , 50 };
+        int n = arr.length;
+        int mx = Integer.MIN_VALUE;
+        for(int i = 0; i <n ;i++){
+            if(arr[i]> mx){
+                mx = arr[i];
+                
+            }
+            System.out.println("Maximum value is : "+  mx);
+            
+        }
+
+    }
+}
