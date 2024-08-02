@@ -1,3 +1,5 @@
+// Write a progrsm to find the Minimum element of java 
+
 public class MinimumValuesArrays {
     public static void main(String[] args) {
         int[] arr   = {1 , 2 , 100 , -20 , 50 };
