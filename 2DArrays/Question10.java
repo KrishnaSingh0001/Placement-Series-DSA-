@@ -15,7 +15,7 @@ public class Question10 {
                 System.out.print(arr[minr][j]+" ");
             }
             minr++;
-            if(minr>=maxr || minc>=maxc) break;
+            if(minr>maxr || minc>maxc) break;
             // top to bottom
             for(int i = minr ; i<=maxr ; i++){
                 System.out.print(arr[i][maxc]+" ");
@@ -23,11 +23,12 @@ public class Question10 {
             maxc--;
 
             // right to left
+            if(minr>maxr || minc>maxc) break;
             for(int j = maxc ; j>=minc ; j-- ){
                 System.out.print(arr[maxr][j]+" ");
             }
             maxr--;
-            if(minr>=maxr || minc>=maxc) break;
+            if(minr>maxr || minc>maxc) break;
             // bottom to top
             for(int i = maxr ; i>=minr ; i--){
                 System.out.print(arr[i][minc]+" ");
