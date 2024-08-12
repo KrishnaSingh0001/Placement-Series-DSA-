@@ -14,7 +14,7 @@ public class SumofDigit {
     }
     public static void main(String[] args) {
         int n = 167;
-        System.out.println(SumofDigit(n));
+        // System.out.println(SumofDigit(n));
         
     }
     
