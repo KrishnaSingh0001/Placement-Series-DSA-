@@ -12,5 +12,4 @@ public class Question2Arrays {
         }
         System.out.println(sum);
     }
-    
 }

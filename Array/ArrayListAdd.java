@@ -1,3 +1,5 @@
+// package ArrayListAdd;
+
 import java.util.ArrayList;
 
 public class ArrayListAdd {
@@ -11,6 +13,7 @@ public class ArrayListAdd {
         // to remove the element from array we use list.remove();
         list.remove(1);
         System.out.println(list + " " + list.size());
+        
     }
     
 }

@@ -2,7 +2,7 @@ import java.util.*;
 public class ArraysInitialise {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enetr Array Size :  ");
+        System.out.println("Enter Array Size :  ");
         int n = sc.nextInt();
         
         int arr[] = new int [n]; // Size of Array

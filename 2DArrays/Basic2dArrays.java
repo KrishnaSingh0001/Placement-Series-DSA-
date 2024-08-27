@@ -16,6 +16,7 @@ public class Basic2dArrays {
         grid[2][2] = 8;
         grid[2][3] = 9;
         System.out.println(grid[2][2]);
+            
 
     }
 }
