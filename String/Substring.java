@@ -13,5 +13,4 @@ public class Substring {
         String str = "HelloWorld";
         System.out.println(substring(str, 0, 5));
     }
-    
 }
