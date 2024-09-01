@@ -1,5 +1,5 @@
  
-package String;
+package Strings;
 import java.util.*;
 public class StringComparison {
     public static void main(String[] args) {

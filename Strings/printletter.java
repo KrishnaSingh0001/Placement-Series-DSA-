@@ -1,4 +1,4 @@
-package String;
+package Strings;
 public class printletter {
     public static void printletters(String str){
         for(int i = 0 ; i < str.length();i++){
