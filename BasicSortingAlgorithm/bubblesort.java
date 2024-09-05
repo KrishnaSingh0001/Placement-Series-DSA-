@@ -10,7 +10,7 @@ public class bubblesort {
         System.out.println();
     }
     public static void main(String[] args) {
-        int arr[] = {5 , 4, 3,2,1};
+        int arr[] = {3,1,2,5,4};
         int n = arr.length;
         print(arr);
         for(int x = 0 ; x<=n-1;x++){
