@@ -1,4 +1,4 @@
-package Strings;
+// package Strings;
 public class ValidParentheses {
     public static void main(String args[]){
         String fruits[] = {"apple " , "banana" , "mango"};

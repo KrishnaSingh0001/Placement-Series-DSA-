@@ -1,6 +1,6 @@
 // Give a String consuting of lowercase English alphabets . prints the character that is occuring most number of times .
 // Most important Question to asked in interview 
-package Strings;
+// package Strings;
 import java.util.*;
 public class Question8 {
     public static void main(String[] args) {

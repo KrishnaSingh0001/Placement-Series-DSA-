@@ -1,4 +1,4 @@
-package Strings;
+// package Strings;
 
 public class Question2 {
      public static float getShortestPath(String path) {

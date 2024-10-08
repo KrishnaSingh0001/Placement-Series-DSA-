@@ -1,6 +1,6 @@
 //  Question 1 : - Check if a String is a Palindrome ("racecar" , "noon" , " madam")
 
-package Strings;
+// package Strings;
 
 public class Question {
     public static boolean isPalindrome(String str){

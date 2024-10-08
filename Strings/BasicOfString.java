@@ -1,4 +1,4 @@
-package Strings;
+// package Strings;
 import java.util.*;
 public class BasicOfString {
     public static void main(String args []){
