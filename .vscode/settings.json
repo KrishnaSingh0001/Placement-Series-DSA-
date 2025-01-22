@@ -1,3 +1,8 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "2DArrays",
+        "Array"
+    ]
+    // "java.project.sourcePaths": ["."]
 }

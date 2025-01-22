@@ -1,5 +1,5 @@
 // Transpose of the matrix of of the arrays 
-
+// package 2DArrays;
 public class Question7 {
     public static void print(int [][] arr) {
         int m = arr.length;
